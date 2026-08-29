@@ -5,5 +5,5 @@ I'm not using anymore Scratch because i will use Unity, Roblox Studio and some l
 
 ## - Scratch
 
-* ### 1. [This is a Template not a game](https://google.com)
+* ### [This is a Template not a game](https://google.com)
   * This is the description
