@@ -14,4 +14,4 @@ Table of Contents:
 -->
 
 ## - Turbowarp
-* Please note that turbowarp project may ned to be packaged to work if it needs custom settings the Turbowarp-config.json should be with the project
+* Please note that turbowarp projects may need to be packaged to work if it needs custom settings the Turbowarp-config.json should be with the project
